@@ -5,7 +5,7 @@
 ## Descrição do Projeto
 
 
-> Proposta desse projeto é criar um site focado na rsponsividade usando a abordagem MOBILE-FIRST. Explorando as possibilidades de uso e conceitos do FLEXBOX. 
+> Proposta desse projeto é criar um site focado na responsividade usando a abordagem MOBILE-FIRST. Explorando as possibilidades de uso e conceitos do FLEXBOX. 
 
 
 # Status do Projeto
@@ -21,7 +21,7 @@
 # Acesso ao projeto
 
 <br>
-:open_file_folder: [Acesse meu projeto](https://tarcilalves.github.io/SiteFrutaeFruto/).
+:open_file_folder: [Acesse meu projeto]([https://tarcilalves.github.io/SiteFrutaeFruto/](https://tarcilalves.github.io/AluraPlay/)).
 
 
 # Tecnologias utilizadas
