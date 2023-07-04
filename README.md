@@ -1,6 +1,6 @@
 
+![capa](https://github.com/Tarcilalves/AluraPlay/assets/107896645/69c8638a-9e5e-4803-8938-4118b8731699)
 
-# Trabalhando com FLEXBOX - site ALURAPLAY
 
 ## Descrição do Projeto
 
@@ -9,19 +9,26 @@
 
 
 # Status do Projeto
+<br><br>
+
 <p align="center ">
 <img src="https://img.shields.io/badge/<STATUS>- Finalizado -<COLOR>"> 
 </p>
 
+<br><br>
+
 # Funcionalidades do projeto
 
+<div align="center">
+
 > https://github.com/Tarcilalves/AluraPlay/assets/107896645/c7f3686f-bc94-4a20-9a49-4905827b51bd
+
+</div>
 
 
 # Acesso ao projeto
 
-<br>
-:open_file_folder: [Acesse meu projeto]([https://tarcilalves.github.io/SiteFrutaeFruto/](https://tarcilalves.github.io/AluraPlay/)).
+[Clique aqui para visitar o site](https://tarcilalves.github.io/AluraPlay/)
 
 
 # Tecnologias utilizadas
